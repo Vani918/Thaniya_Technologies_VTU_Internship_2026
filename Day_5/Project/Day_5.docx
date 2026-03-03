@@ -1,0 +1,7 @@
+Summary
+Today’s session covered the fundamentals of Git and GitHub, focusing on version control, collaboration, and real-world industry workflows. I learned how Git tracks changes, manages project history, and allows multiple developers to work together efficiently. The session explained essential commands like initializing a repository, adding and committing changes, viewing logs, and working with branches. It also included advanced concepts such as merge conflicts, rebasing, stashing, and amending commits. Additionally, the workflow of using GitHub for pushing code, creating pull requests, and team collaboration was discussed.
+
+Outcomes
+After this session, I can confidently use basic Git commands to manage a project locally and connect it to GitHub. I understand how to create and switch branches, merge features, and resolve merge conflicts. I learned the difference between git fetch and git pull, as well as the purpose of rebasing. I now know the standard team workflow followed in real-world projects, including pull requests and code reviews. Overall, I gained practical knowledge required for interviews and professional software development environments.
+
+  
