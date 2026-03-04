@@ -1,0 +1,5 @@
+Summary:
+In today’s internship session, we learnt the basics of RESTful APIs and how client–server communication works using HTTP methods. We understood the purpose and usage of GET, POST, and DELETE methods for retrieving, sending, and removing data. We also discussed real-time examples to clearly understand how these methods are used in applications and were given a task based on these concepts.
+
+Outcomes:
+After today’s session, we are able to identify when to use GET, POST, and DELETE methods in a RESTful API. We can understand API request–response flow and apply these methods while working on practical tasks. This session helped us gain hands-on exposure to API concepts and improved our confidence in implementing REST-based operations in real projects.
