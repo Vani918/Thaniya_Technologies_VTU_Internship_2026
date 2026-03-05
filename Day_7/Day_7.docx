@@ -1,0 +1,5 @@
+Summary: 
+I revised the basic concepts of RESTful APIs and understood how they are used in real applications. We worked on a project to connect the backend using Express.js with the frontend using React.js, focusing on client–server communication. We implemented HTTP methods such as GET, POST, and DELETE to handle data flow between the frontend and backend.
+
+Outcomes:
+I was able to connect a React frontend with an Express.js backend using RESTful APIs. We can perform GET, POST, and DELETE operations to fetch, add, and remove data from the server. This practical experience improved our understanding of full-stack integration and strengthened our confidence in building and testing API-based projects.
