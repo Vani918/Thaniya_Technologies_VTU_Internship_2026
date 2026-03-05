@@ -4,14 +4,13 @@ const PORT = 5000;
 
 app.use(express.json());
 
-/* EXISTING FEATURE – DO NOT CHANGE */
 app.get("/api/message", (req, res) => {
   res.json({
     message: "Hello from Node.js and Express Backend"
   });
 });
 
-/* NEW FEATURE – GET METHOD */
+/*  GET METHOD */
 app.get("/api/users", (req, res) => {
   res.json({
     message: "GET request successful",
@@ -19,7 +18,7 @@ app.get("/api/users", (req, res) => {
   });
 });
 
-/* NEW FEATURE – POST METHOD */
+/*  POST METHOD */
 app.post("/api/users", (req, res) => {
   const newUser = req.body.name;
 
@@ -29,7 +28,7 @@ app.post("/api/users", (req, res) => {
   });
 });
 
-/* NEW FEATURE – DELETE METHOD */
+/* DELETE METHOD */
 app.delete("/api/users/:id", (req, res) => {
   const userId = req.params.id;
 
