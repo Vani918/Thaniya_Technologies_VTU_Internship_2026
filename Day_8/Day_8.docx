@@ -1,0 +1,5 @@
+Summary:
+In today’s internship session, we revised some of the previously learned RESTful API concepts and continued working on our project. We further practiced connecting the React frontend with the Express.js backend and modified parts of the existing task project. During this process, we again used HTTP methods such as GET, POST, and DELETE to manage and update the data between the client and server.
+
+Outcomes:
+After today’s session, we gained better clarity on how RESTful APIs work in a full-stack application and improved our ability to modify and extend an existing project. We are now more comfortable integrating React with Express.js, testing API endpoints, and performing GET, POST, and DELETE operations while updating project functionality. This helped strengthen our practical development and debugging skills.
