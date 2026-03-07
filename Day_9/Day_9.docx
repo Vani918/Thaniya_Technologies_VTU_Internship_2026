@@ -1,0 +1,5 @@
+Summary:
+In today’s internship session, we learnt about Express.js middleware and the request–response lifecycle in a server application. The session mainly focused on understanding different types of middleware and how they work during the processing of a client request. We discussed how middleware functions execute in sequence and help in tasks such as request processing, logging, authentication, and error handling.
+
+Outcomes:
+After today’s session, we are able to understand the request lifecycle in an Express.js application and how middleware controls the flow between the request and response. We also learnt about the different types of middleware and how they can be used to perform specific operations during request processing. This knowledge helps us build better structured and maintainable backend applications using Express.js.
