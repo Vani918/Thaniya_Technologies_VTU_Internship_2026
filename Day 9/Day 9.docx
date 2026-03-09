@@ -1,0 +1,6 @@
+
+Summary:
+In today’s session, we started working on the assigned task related to Express middleware. The task involved creating a middleware function that logs important request details such as request time, request method, and request URL whenever a client sends a request to the server. This helped us understand how middleware works during the request–response cycle.
+
+Outcomes:
+After today’s session, we developed a basic understanding of how to implement middleware in Express.js and began working on the logging middleware task. We explored how request information can be accessed inside middleware and how it fits into the request–response lifecycle, which will help us continue and complete the implementation in the upcoming sessions.
