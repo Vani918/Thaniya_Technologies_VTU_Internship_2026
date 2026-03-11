@@ -1,0 +1,5 @@
+**Summary:**
+Today I worked on developing a simple Student API using the MVC (Model–View–Controller) structure in Node.js and Express. I created separate folders for controllers and routes to organize the project in a structured way. The API logic was moved to the controller file, and the routes were connected to the server to handle different requests. Endpoints for retrieving, adding, and deleting student records were implemented. The complete code for this task has been posted in the **Day 10 folder**.
+
+**Outcomes:**
+Through this task, I learned how to organize a Node.js application using the MVC architecture for better code structure and maintainability. I understood how to separate route handling and business logic by using controllers and routes folders. I also gained experience in creating RESTful endpoints such as GET, POST, and DELETE for handling API operations. This activity improved my understanding of backend development practices. The implementation code has been uploaded to the **Day 10 folder** for reference.
