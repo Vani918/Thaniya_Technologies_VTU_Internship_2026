@@ -1,0 +1,5 @@
+Summary:
+In today’s internship session, we revised the concepts related to Express.js middleware and the request lifecycle. We reviewed how middleware functions work in sequence and how they can access request details such as request time, request method, and request URL. The revision helped reinforce the concepts we started implementing in the previous session.
+
+Outcomes:
+After today’s session, we gained better clarity on how middleware operates within the Express request–response cycle. Revising these concepts strengthened our understanding of accessing request information and using middleware for tasks like logging, which will help us continue working on the middleware implementation more effectively.
