@@ -1,0 +1,5 @@
+Summary:
+Learned the fundamentals of MongoDB and basic database concepts. It explained what a database is and the difference between SQL and NoSQL databases. The session also covered how MongoDB stores data using collections and documents in a JSON-like format. Additionally, tools such as MongoDB Compass and MongoDB Atlas were discussed along with installation overview and real-world use cases. 
+
+Outcomes:
+By the end of the session, we understood the concept of databases and the difference between relational and non-relational databases. We learned how MongoDB works as a NoSQL document database and how it stores data using BSON documents. We also gained knowledge about MongoDB tools like Compass and Atlas for managing databases and explored how MongoDB is used in real-world applications. 🚀
