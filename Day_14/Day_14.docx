@@ -1,0 +1,5 @@
+Summary:
+revised the fundamental concepts of MongoDB such as databases, collections, documents, and the difference between SQL and NoSQL databases. After the revision, we started learning basic MongoDB queries used to interact with the database. The session included simple operations such as creating databases, inserting documents, viewing data, and performing basic queries. This helped in understanding how data is stored and retrieved in MongoDB practically.
+
+Outcomes:
+By the end of the session, we strengthened our understanding of MongoDB fundamentals through revision. We also learned how to perform basic database operations such as inserting, finding, and viewing documents using MongoDB queries. This practical introduction helped us understand how developers interact with MongoDB databases in real applications. 🚀
