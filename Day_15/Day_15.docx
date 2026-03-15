@@ -1,0 +1,5 @@
+Summary:
+continued working with MongoDB by practicing basic queries and focusing on CRUD operations. The session involved performing Create, Read, Update, and Delete operations on documents within collections. Through practical examples, we learned how to insert new records, retrieve specific data, modify existing documents, and remove unnecessary data from the database. This helped in understanding how MongoDB manages and manipulates data effectively.
+
+Outcomes:
+By the end of the session, we gained practical knowledge of CRUD operations in MongoDB. We learned how to use basic queries to create, read, update, and delete documents within collections. This practice improved our understanding of database management and how MongoDB operations are used in real-world applications. 🚀
