@@ -1,0 +1,5 @@
+Summary:
+In today’s session, we learned how to build a project using MongoDB Atlas by connecting it with a backend developed in Express.js. The focus was on establishing a connection between the cloud database and the server, and performing basic operations using GET and POST methods. We practiced sending data to the database and retrieving it through API endpoints. This helped in understanding how backend services interact with a cloud database in real-time applications.
+
+Outcomes:
+By the end of the session, we understood how to connect MongoDB Atlas with an Express.js application. We learned how to use GET and POST methods to store and fetch data from the database. This practical experience improved our knowledge of backend development and API handling, which is essential for building full-stack web applications. 
