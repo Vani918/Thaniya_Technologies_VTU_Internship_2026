@@ -1,0 +1,5 @@
+Summary:
+The session focused on revising the concepts of MongoDB and its integration with Express.js. We reviewed how MongoDB Atlas is connected to the backend and revisited the use of GET and POST methods for data handling. The revision also covered how data is stored, retrieved, and managed within collections. This helped reinforce the understanding of database operations in a real-time project setup.
+
+Outcomes:
+By the end of the session, we strengthened our understanding of MongoDB concepts and backend integration. We gained more confidence in using GET and POST methods to interact with the database. This revision helped us build a clearer understanding of how MongoDB works in full-stack application development. 
