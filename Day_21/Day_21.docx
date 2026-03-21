@@ -1,0 +1,5 @@
+Summary:
+Today’s session focused on understanding the requirement collection phase of the Developer Portfolio Evaluator project. We analyzed the core objective of the application, which is to evaluate a GitHub profile and generate a structured scorecard. The discussion included identifying key features such as activity tracking, project analysis, and scoring mechanisms. We also explored how the system will interact with GitHub APIs to fetch necessary data. Overall, the session helped in clarifying what exactly needs to be built and how the project will be structured.
+
+Outcomes:
+By the end of the session, a clear understanding of the project requirements and workflow was achieved. We identified the major components of the system, including frontend, backend, and database integration. The roadmap for development was outlined, helping in planning the implementation phase effectively. Additionally, we gained clarity on how scoring logic will be designed using rule-based conditions. This session provided a strong foundation to begin the development of the project confidently.
