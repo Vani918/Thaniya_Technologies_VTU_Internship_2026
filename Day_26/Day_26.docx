@@ -1,0 +1,5 @@
+Summary:
+Today’s task involved setting up the database layer for storing evaluation results. I created a MongoDB schema in report.js to define the structure of evaluation reports. The schema includes fields such as username, score, and a timestamp to track when each report is generated. This setup ensures that evaluation data can be stored and retrieved efficiently.
+
+Outcomes:
+By completing this task, I gained practical experience in designing schemas using Mongoose for MongoDB. I developed a better understanding of how data modeling supports backend functionality. This implementation enables persistent storage of evaluation results, which is essential for future features like history tracking and analysis. Overall, it strengthens the project’s data management and scalability.
