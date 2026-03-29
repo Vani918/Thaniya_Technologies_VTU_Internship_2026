@@ -1,0 +1,5 @@
+Summary:
+Today the backend server was initialized using Express.js. Essential middleware such as CORS and JSON parsing was configured to handle cross-origin requests and process incoming request bodies. The evaluate route was integrated under the /api endpoint, establishing the connection between the server and application routes. Finally, the server was set to listen on port 5000, enabling it to accept and respond to client requests.
+
+Outcomes:
+As a result of this implementation, the backend server is now fully set up and capable of handling API requests from the frontend. The application can successfully process incoming data, route requests to the appropriate handlers, and return responses. This forms the foundation for further development, allowing additional features and routes to be built and tested efficiently.
