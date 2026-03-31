@@ -1,3 +1,5 @@
+const { calculateScore } = require("../utils/scoring");
+
 const axios = require("axios");
 
 exports.evaluateProfile = async (req, res) => {
