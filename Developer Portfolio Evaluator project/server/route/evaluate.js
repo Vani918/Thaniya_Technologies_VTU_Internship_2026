@@ -1,11 +1,8 @@
 const express = require("express");
 const router = express.Router();
-const { evaluateProfile } = require("../controllers/evaluateController");
+const { evaluateProfile, getReportById } = require("../controllers/evaluateController");
 
-router.post("/evaluate", (req, res, next) => {
-  console.log("Route hit!");
-  next();
-}, evaluateProfile);
-
+router.post("/evaluate", evaluateProfile);
+router.get("/report/:id", getReportById);
 
 module.exports = router;
