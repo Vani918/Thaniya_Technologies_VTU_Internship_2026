@@ -1,0 +1,5 @@
+Summary:
+Today’s session involved initiating the project by focusing on requirement collection and understanding the problem statement in detail. The workflow and expectations of building an automated CI/CD pipeline were analyzed to identify the key components involved. The discussion centered on how version control, containerization, and automation would fit into the overall system. Based on this, a clear direction for selecting a backend application and structuring the project was established.
+
+Outcomes:
+A strong foundation was set by clearly defining the project scope and understanding the DevOps workflow. The key requirements and tools needed for implementation, such as GitHub, Docker, and GitHub Actions, were identified. A structured plan for moving forward with the project was outlined. This session ensured clarity on the initial steps, enabling a smooth transition into the development phase.
