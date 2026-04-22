@@ -1,0 +1,5 @@
+Summary:
+Today’s session involved progressing to the next phase of the SDLC by focusing on system design and planning. Based on the previously gathered requirements, the overall architecture of the CI/CD pipeline was outlined. Key components such as GitHub for version control, Docker for containerization, and GitHub Actions for automation were organized into a structured workflow. The interaction between these components and the sequence of operations in the pipeline were clearly defined.
+
+Outcomes:
+A clear system design for the CI/CD pipeline was established, providing a blueprint for implementation. The roles of each tool and their integration within the workflow were finalized. This planning phase created a strong foundation for the development stage, ensuring a smooth and organized execution in the upcoming sessions.
