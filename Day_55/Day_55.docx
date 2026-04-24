@@ -1,0 +1,5 @@
+Summary:
+Today’s session involved beginning the requirement analysis phase for the Multi-Vendor E-commerce Platform. The focus was on identifying and organizing both functional and non-functional requirements based on the project objectives. Key features such as product listing, cart system, order management, and vendor-specific functionalities were broken down for better clarity. Additionally, the roles and interactions of Customer, Vendor, and Admin modules were analyzed to understand system behavior.
+
+Outcomes:
+A structured set of initial requirements was prepared, providing clarity on what the system is expected to achieve. The core functionalities for each module were identified and documented. This step created a strong base for preparing the project synopsis and moving towards system design. The analysis ensured a clear understanding of the system before development begins.
