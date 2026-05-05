@@ -65,7 +65,7 @@ npm start
 
 📸 Screenshots
 
-![Landing Page](screenshots/landing.png)
+![Landing Page](screenshots/Landing_page.jpeg)
 
 ---
 
